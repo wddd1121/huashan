@@ -2,3 +2,5 @@
 在github上手动修改
 在shell上进行修改，测试push到gihub
 edit by local
+在shell上进行修改，测试push到gihubedit 
+edit by github
